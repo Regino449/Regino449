@@ -1,6 +1,14 @@
 ### olá,eu sou o Regino 👋
 
 
+
+ <img align="right" alt="Rafa-pic" height="400" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/video_clips/images/024/538/805/large/pixel-jeff-thumb.jpg?1582740711">
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/Regino449">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Regino449&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
