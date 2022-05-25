@@ -1,4 +1,4 @@
-### olá, Eu sou o Regino 👋
+### Olá, Eu sou o Regino 👋
 
 <p align="left">
    
