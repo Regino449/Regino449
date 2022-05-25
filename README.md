@@ -9,7 +9,7 @@
 
 
 <br/>
-<div align="center">
+<div align="center"><br/>
   <a href="https://github.com/Regino449">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Regino449&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
