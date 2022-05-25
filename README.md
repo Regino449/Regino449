@@ -7,48 +7,49 @@
 Seja bem-vindo ao meu GitHub!
  
  - 📚 Estudante do Curso Téc.Em Informática No Campus IFFAR 
-
- - 🌱 Aprendendo JAVASCRIPT,HTML,CSS E SQL.
    
- - 🌳 Aprofundando em LÓGICA DE PROGRAMAÇÃO.
+ - 🌳 Aprofundando em Lógica De Programação.
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
  </p>
-
-
-
-
-
-
 
 ## **GitHub Estatísticas**
 
 
 
 <a href="https://github.com/Regino449">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Regino** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Regino449&show_icons=true&theme=dark&line_height=27" alt="**Regino** github stats"/>
 </a>
 
 
+<h3> Tecnologias que estudo: </h3> 
+
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ 
+
+ 
 
 
+**Ferramentas de Desenvolvimento que Uso:**
 
-
-
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="regi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
+<br/>
 
-  <img align="center" alt="regi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+
+
     
-  <img align="center" alt="regi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- 
- 
- 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3 align="left"> 
+   :earth_americas: &nbsp;Onde me encontrar: 
+</h3> 
 
   <a href="https://www.instagram.com/kaneki_cg268/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
