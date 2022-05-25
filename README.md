@@ -16,5 +16,3 @@
   <img align="center" alt="regi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-  <img align="right" alt="regi-pic" height="150" style="border-radius:50px;" src="https://cdna.artstation.com/p/assets/images/images/018/743/268/large/xk-art-casualkanekiken.jpg?1560531323">
-</div>
