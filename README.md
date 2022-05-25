@@ -6,7 +6,7 @@
    
 Seja bem-vindo ao meu GitHub!
  
- - 📚 Estudante de TÉC.EM INFORMÁITCA NA INSTITUIÇÃO IFFAR
+ - 📚 Estudante do Curso Téc.Em Informática No Campus IFFAR <img src="<img src="https://cdnb.artstation.com/p/assets/video_clips/images/024/538/805/large/pixel-jeff-thumb.jpg?1582740711" min-width="100px" max-width="90px" width="350px" align="right">" min-width="400px" max-width="350px" width="350px" align="right">
 
  - 🌱 Aprendendo JAVASCRIPT,HTML,CSS E SQL.
    
