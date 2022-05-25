@@ -1,11 +1,4 @@
-### olá, Eu sou o Regino 👋 
-
-
-
- <img align="right" alt="Rafa-pic" height="570" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/video_clips/images/024/538/805/large/pixel-jeff-thumb.jpg?1582740711"> <br/>
-
-
-
+### olá, Eu sou o Regino 👋
 
 <p align="left">
    
