@@ -5,7 +5,13 @@
  <img align="right" alt="Rafa-pic" height="570" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/video_clips/images/024/538/805/large/pixel-jeff-thumb.jpg?1582740711"> <br/>
 
 
+## **GitHub Estatísticas**
 
+
+
+<a href="https://github.com/Regino449">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Regino** github stats"/>
+</a>
 
 
 
