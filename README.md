@@ -19,4 +19,4 @@
 
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://wallpapercave.com/w/uwp1856720">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://wallpapercave.com/uwp/uwp1856720.gif">
