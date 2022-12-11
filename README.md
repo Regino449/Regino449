@@ -6,7 +6,7 @@
    
 Seja bem-vindo ao meu GitHub!
  
- - 📚 Estudante do Curso Téc.Em Informática No Campus IFFAR 
+
    
  - 🌳 Aprofundando em Lógica De Programação.
 
